@@ -1,0 +1,8 @@
+body {
+    font-family: Consolas, "Courier New", Courier, monospace;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    min-height: 90vh; /* 80% of viewport screen */
+}
